@@ -1,0 +1,19 @@
+.logo img  {
+    height: 90px;
+    width: 300px;
+    
+    float: left;
+}
+    
+.navbar.navbar-expand-lg{
+    
+    width: 100%;
+    margin: auto;
+    display: flex;
+    line-height: 80px;
+    position: sticky;
+    position: -webkit-sticky; 
+    top: 0;
+    background: #fafafa;
+    z-index: 1;
+    border-bottom:1px solid #364f6b;
